@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=220&section=header&text=Shreya%20Mahajan&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%7C%20Python%20%7C%20Machine%20Learning%20%7C%20AI%20Builder&descAlignY=65&descAlign=50"/>
 </p>
 
+
 <h3 align="center">
 Data Scientist • Python & Machine Learning Developer • AI Builder
 </h3>
