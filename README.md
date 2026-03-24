@@ -7,6 +7,7 @@
 Data Scientist • Python & Machine Learning Developer • AI Builder
 </h3>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/shreya-mahajan-b38b28385/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
