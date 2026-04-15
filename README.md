@@ -86,7 +86,6 @@ Interactive college resource platform.
   <img src="https://raw.githubusercontent.com/shreya975/shreya975/output/github-snake-dark.svg" />
 </p>
 
-
 ---
 
 ## 🎯 2026 Vision
