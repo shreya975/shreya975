@@ -18,7 +18,7 @@ Data Scientist • Python & Machine Learning Developer • AI Builder
   <img src="https://komarev.com/ghpvc/?username=shreya975&style=for-the-badge&color=0e75b6" />
 </p>
 
----
+--- 
 
 ## 🚀 About Me
 
