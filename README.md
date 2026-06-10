@@ -24,7 +24,7 @@
 
 ## About Me
 
-I'm a Data Science student at Nagpur, India, focused on building AI systems that have a measurable real-world impact — not just accurate models, but useful ones.
+I'm a Data Science student focused on building AI systems that have a measurable real-world impact — not just accurate models, but useful ones.
 
 My work sits at the intersection of **machine learning**, **data analytics**, and **applied AI**. I care about the full pipeline: from raw, messy data to production-ready insights and user-facing tools.
 
