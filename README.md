@@ -28,8 +28,6 @@ I'm a Data Science student at Nagpur, India, focused on building AI systems that
 
 My work sits at the intersection of **machine learning**, **data analytics**, and **applied AI**. I care about the full pipeline: from raw, messy data to production-ready insights and user-facing tools.
 
-Currently building [**RouteWise**](https://github.com/shreya975/RouteWise---AI-Transport-Optimization-System) — an AI-powered public transport optimization system.
-
 - 🔭 Actively seeking **internships, research collaborations, and hackathons**
 - 🧠 Deepening expertise in **Deep Learning, MLOps, and Cloud-native ML**
 - 📍 Based in **Nagpur, Maharashtra, India**
