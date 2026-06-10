@@ -69,9 +69,6 @@ My work sits at the intersection of **machine learning**, **data analytics**, an
 ### 🚌 RouteWise — AI Transport Optimization System
 
 > Intelligent public transport platform that optimizes route efficiency, predicts congestion, and surfaces data-driven insights for city planners and commuters.
-
-**Stack:** Python · Machine Learning · Data Analytics · Streamlit  
-**Highlights:** Route efficiency modeling · Real-world dataset · Interactive dashboard  
 [→ View Repository](https://github.com/shreya975/RouteWise---AI-Transport-Optimization-System)
 
 ---
@@ -79,9 +76,6 @@ My work sits at the intersection of **machine learning**, **data analytics**, an
 ### 🤖 Career Copilot AI
 
 > AI-driven career guidance platform that maps skill gaps, recommends learning paths, and generates personalized roadmaps based on target roles.
-
-**Stack:** Python · NLP · Machine Learning  
-**Highlights:** Skill gap analysis · Personalized recommendations · Career path mapping  
 [→ View Repository](https://github.com/shreya975/career-copilot-ai)
 
 ---
@@ -89,9 +83,6 @@ My work sits at the intersection of **machine learning**, **data analytics**, an
 ### 📊 India Superstore Sales Analysis
 
 > End-to-end business analytics project uncovering sales trends, customer segmentation, and profitability drivers across an Indian retail dataset.
-
-**Stack:** Python · Pandas · NumPy · Power BI  
-**Highlights:** Customer segmentation · Profitability analysis · Executive-ready dashboards  
 [→ View Repository](https://github.com/shreya975/India_Superstore_Sales_Analysis)
 
 ---
@@ -99,9 +90,6 @@ My work sits at the intersection of **machine learning**, **data analytics**, an
 ### ⚽ FIFA World Cup Analysis Dashboard
 
 > Interactive analytics dashboard exploring 90+ years of World Cup data — team performance, goal trends, and tournament-wide statistical patterns.
-
-**Stack:** Python · Power BI · Data Analytics  
-**Highlights:** Historical trend analysis · Interactive filters · Storytelling with data  
 [→ View Repository](https://github.com/shreya975/FIFA-World-Cup-Analysis-Dashboard)
 
 ---
