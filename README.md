@@ -124,18 +124,6 @@ My work sits at the intersection of **machine learning**, **data analytics**, an
 
 ---
 
-## Currently Building
-
-| Area | Focus |
-|---|---|
-| 🧠 Machine Learning | Advanced algorithms, model optimization, ensemble methods |
-| 🔬 Deep Learning | Neural network architectures, CV, NLP fundamentals |
-| ⚙️ MLOps | Model deployment, monitoring, CI/CD for ML pipelines |
-| ☁️ Cloud | AWS / GCP for scalable ML workloads |
-| 🏗️ DSA | Problem-solving for technical interviews |
-
----
-
 <div align="center">
 
 **Open to internships · research collabs · hackathon teams · open-source projects**
